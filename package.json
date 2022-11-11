@@ -1,0 +1,24 @@
+{
+  "name": "testing-csb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biswajit150803/testing-csb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biswajit150803/testing-csb/issues"
+  },
+  "homepage": "https://github.com/biswajit150803/testing-csb#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
